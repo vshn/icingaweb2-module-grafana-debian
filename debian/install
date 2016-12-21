@@ -1,0 +1,5 @@
+application 		usr/share/icingaweb2/modules/grafana
+configuration.php 	usr/share/icingaweb2/modules/grafana
+library 		usr/share/icingaweb2/modules/grafana
+module.info 		usr/share/icingaweb2/modules/grafana
+run.php 		usr/share/icingaweb2/modules/grafana

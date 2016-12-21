@@ -1,0 +1,14 @@
+Source: icingaweb2-module-grafana
+Priority: optional
+Section: admin
+Maintainer: André Keller <andre.keller@vshn.ch>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/vshn/icingaweb2-module-grafana
+
+Package: icingaweb2-module-grafana
+Architecture: all
+Depends: ${misc:Depends}, icingaweb2 (>= 2.4.0)
+Description: Grafana graphs integration for Icinga Web 2.
+ Insert Grafana graphs into Icinga Web 2 to display performance metrics.
+Homepage: https://github.com/vshn/icingaweb2-module-grafana

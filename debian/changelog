@@ -1,0 +1,5 @@
+icingaweb2-module-grafana (0.1.0-1) xenial; urgency=medium
+
+  * Initial release.
+
+ -- André Keller <andre.keller@vshn.ch>  Wed, 21 Dec 2016 12:45:36 +0000
